@@ -1,0 +1,42 @@
+
+.bg-primary{
+  background-color: #ed9b18 ;
+}
+.bg-opacity{
+  background-color: #0006 ;
+}
+
+.hidden{
+  display: none;
+}
+.absolute{
+  position: absolute;
+}
+.opcion-de-chat{
+  bottom: 5rem;
+  right: 1rem;
+  border-radius: 15px;
+  padding: 5px 20px;
+}
+.w-50{
+  width: 50px;
+}
+.inverted {
+  filter: invert(100%);
+}
+.flex{
+  display: flex;
+}
+.flex-row{
+  flex-direction: row;
+}
+
+.gap-10{
+ gap:10px;
+}
+.text-white{
+  color: #fff;
+}
+.text{
+  font-family: 'Montserrat', Helvetica, Arial, Lucida, sans-serif;
+}
